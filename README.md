@@ -4,7 +4,7 @@ Just getting started....
 
 Application Directory Structure
 
-Html
+www
  |-------application
 
               |---------index.php
